@@ -1,32 +1,32 @@
-table,project,sponsors,link
-1,Osu!Boost,,https://hack-cewit-2019.devpost.com/submissions/112229-osu-boost
-2,The Hash Bringing Slasher ,Machine Learning: A.I. Most Likely to Take Over The World,https://hack-cewit-2019.devpost.com/submissions/112325-the-hash-bringing-slasher
-3,HoneyPot,"MLH - Best Domain Name from Domain.com, Most Health-Conscious: Tech for Healthcare's Sake",https://hack-cewit-2019.devpost.com/submissions/112332-honeypot
-4,QUACK,"MLH - Best IoT Hack Using a Qualcomm Device, Most Health-Conscious: Tech for Healthcare's Sake",https://hack-cewit-2019.devpost.com/submissions/112345-quack
-5,Chuck: the stock bot!,"Viacom - Best Multimedia Hack, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World",https://hack-cewit-2019.devpost.com/submissions/112349-chuck-the-stock-bot
-6,Pill-Pattern,Most Health-Conscious: Tech for Healthcare's Sake,https://hack-cewit-2019.devpost.com/submissions/112367-pill-pattern
-7,word cloud review,"Viacom - Best Multimedia Hack, MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform",https://hack-cewit-2019.devpost.com/submissions/112380-word-cloud-review
-8,WiTT - What is This Thing?,"MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World",https://hack-cewit-2019.devpost.com/submissions/112381-witt-what-is-this-thing
-9,Intelligent heart disease diagnosis,,https://hack-cewit-2019.devpost.com/submissions/112401-intelligent-heart-disease-diagnosis
-10,Vital Master,,https://hack-cewit-2019.devpost.com/submissions/112402-vital-master
-11,Roombalistics,"Viacom - Best Multimedia Hack, MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World",https://hack-cewit-2019.devpost.com/submissions/112478-roombalistics
-12,Eddie - Question Answering Dialog Agent,"Viacom - Best Multimedia Hack, MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World, Softheon's Pick: Best Use of Softheon Workshops",https://hack-cewit-2019.devpost.com/submissions/112519-eddie-question-answering-dialog-agent
-13,ShutApp,"MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform, Most Health-Conscious: Tech for Healthcare's Sake",https://hack-cewit-2019.devpost.com/submissions/112528-shutapp
-14,Blogger,"MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform",https://hack-cewit-2019.devpost.com/submissions/112565-blogger
-15,SwipeMe♥,Softheon's Pick: Most Significant Use of Softheon APIs,https://hack-cewit-2019.devpost.com/submissions/112574-swipeme
-16,How Dare,MLH - Best Domain Name from Domain.com,https://hack-cewit-2019.devpost.com/submissions/112588-how-dare
-17,OCR Driven Automated Vehicle ,"ULC Robotics Pick: Best Use of 3D Visualization/Simulation, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World",https://hack-cewit-2019.devpost.com/submissions/112609-ocr-driven-automated-vehicle
-18,Down the Hatch,"MLH - Best IoT Hack Using a Qualcomm Device, Viacom - Best Multimedia Hack, Machine Learning: A.I. Most Likely to Take Over The World, Most Health-Conscious: Tech for Healthcare's Sake",https://hack-cewit-2019.devpost.com/submissions/112612-down-the-hatch
-19,TowerDefenseVR,Viacom - Best Multimedia Hack,https://hack-cewit-2019.devpost.com/submissions/112618-towerdefensevr
-20,The aMAZEing Race,"ULC Robotics Pick: Best Use of 3D Visualization/Simulation, Machine Learning: A.I. Most Likely to Take Over The World",https://hack-cewit-2019.devpost.com/submissions/112621-the-amazeing-race
-21,SMSBuddy,"MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform",https://hack-cewit-2019.devpost.com/submissions/112625-smsbuddy
-22,Detective Clipper,MLH - Best Domain Name from Domain.com,https://hack-cewit-2019.devpost.com/submissions/112626-detective-clipper
-23,Robot Challenge,Robotics Challenge ,https://hack-cewit-2019.devpost.com/submissions/112632-robot-challenge
-24,Facing Facts,Most Health-Conscious: Tech for Healthcare's Sake,https://hack-cewit-2019.devpost.com/submissions/112637-facing-facts
-25,Hack Your Cell,"MLH - Best Domain Name from Domain.com, Softheon's Pick: Most Significant Use of Softheon APIs, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World, Most Health-Conscious: Tech for Healthcare's Sake, Softheon's Pick: Best Use of Softheon Workshops",https://hack-cewit-2019.devpost.com/submissions/112638-hack-your-cell
-26,Respiratory Disease and Air Quality Alert Generation,"Machine Learning: A.I. Most Likely to Take Over The World, Most Health-Conscious: Tech for Healthcare's Sake",https://hack-cewit-2019.devpost.com/submissions/112639-respiratory-disease-and-air-quality-alert-generation
-27,Rail Analytics,Machine Learning: A.I. Most Likely to Take Over The World,https://hack-cewit-2019.devpost.com/submissions/112641-rail-analytics
-28,CampNav,"MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World",https://hack-cewit-2019.devpost.com/submissions/112654-campnav
-29,AETO,,https://hack-cewit-2019.devpost.com/submissions/112662-aeto
-30,Effortless,"Most Health-Conscious: Tech for Healthcare's Sake, Softheon's Pick: Best Use of Softheon Workshops",https://hack-cewit-2019.devpost.com/submissions/112677-effortless
-31,United Sensors of America,,https://hack-cewit-2019.devpost.com/submissions/112682-united-sensors-of-america
+table,project,link,sponsors
+1,QUACK,https://hack-cewit-2019.devpost.com/submissions/112345-quack,"MLH - Best IoT Hack Using a Qualcomm Device, Most Health-Conscious: Tech for Healthcare's Sake"
+2,Roombalistics,https://hack-cewit-2019.devpost.com/submissions/112478-roombalistics,"Viacom - Best Multimedia Hack, MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World"
+3,Effortless,https://hack-cewit-2019.devpost.com/submissions/112677-effortless,"Most Health-Conscious: Tech for Healthcare's Sake, Softheon's Pick: Best Use of Softheon Workshops"
+4,HoneyPot,https://hack-cewit-2019.devpost.com/submissions/112332-honeypot,"MLH - Best Domain Name from Domain.com, Most Health-Conscious: Tech for Healthcare's Sake"
+5,Rail Analytics,https://hack-cewit-2019.devpost.com/submissions/112641-rail-analytics,Machine Learning: A.I. Most Likely to Take Over The World
+6,WiTT - What is This Thing?,https://hack-cewit-2019.devpost.com/submissions/112381-witt-what-is-this-thing,"MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World"
+7,Facing Facts,https://hack-cewit-2019.devpost.com/submissions/112637-facing-facts,Most Health-Conscious: Tech for Healthcare's Sake
+8,ShutApp,https://hack-cewit-2019.devpost.com/submissions/112528-shutapp,"MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform, Most Health-Conscious: Tech for Healthcare's Sake"
+9,SwipeMe♥,https://hack-cewit-2019.devpost.com/submissions/112574-swipeme,Softheon's Pick: Most Significant Use of Softheon APIs
+10,SMSBuddy,https://hack-cewit-2019.devpost.com/submissions/112625-smsbuddy,"MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform"
+11,CampNav,https://hack-cewit-2019.devpost.com/submissions/112654-campnav,"MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World"
+12,Chuck: the stock bot!,https://hack-cewit-2019.devpost.com/submissions/112349-chuck-the-stock-bot,"Viacom - Best Multimedia Hack, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World"
+13,The aMAZEing Race,https://hack-cewit-2019.devpost.com/submissions/112621-the-amazeing-race,"ULC Robotics Pick: Best Use of 3D Visualization/Simulation, Machine Learning: A.I. Most Likely to Take Over The World"
+14,The Hash Bringing Slasher ,https://hack-cewit-2019.devpost.com/submissions/112325-the-hash-bringing-slasher,Machine Learning: A.I. Most Likely to Take Over The World
+15,Respiratory Disease and Air Quality Alert Generation,https://hack-cewit-2019.devpost.com/submissions/112639-respiratory-disease-and-air-quality-alert-generation,"Machine Learning: A.I. Most Likely to Take Over The World, Most Health-Conscious: Tech for Healthcare's Sake"
+16,Osu!Boost,https://hack-cewit-2019.devpost.com/submissions/112229-osu-boost,
+17,Detective Clipper,https://hack-cewit-2019.devpost.com/submissions/112626-detective-clipper,MLH - Best Domain Name from Domain.com
+18,Eddie - Question Answering Dialog Agent,https://hack-cewit-2019.devpost.com/submissions/112519-eddie-question-answering-dialog-agent,"Viacom - Best Multimedia Hack, MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World, Softheon's Pick: Best Use of Softheon Workshops"
+19,Down the Hatch,https://hack-cewit-2019.devpost.com/submissions/112612-down-the-hatch,"MLH - Best IoT Hack Using a Qualcomm Device, Viacom - Best Multimedia Hack, Machine Learning: A.I. Most Likely to Take Over The World, Most Health-Conscious: Tech for Healthcare's Sake"
+20,TowerDefenseVR,https://hack-cewit-2019.devpost.com/submissions/112618-towerdefensevr,Viacom - Best Multimedia Hack
+21,AETO,https://hack-cewit-2019.devpost.com/submissions/112662-aeto,
+22,Pill-Pattern,https://hack-cewit-2019.devpost.com/submissions/112367-pill-pattern,Most Health-Conscious: Tech for Healthcare's Sake
+23,OCR Driven Automated Vehicle ,https://hack-cewit-2019.devpost.com/submissions/112609-ocr-driven-automated-vehicle,"ULC Robotics Pick: Best Use of 3D Visualization/Simulation, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World"
+24,How Dare,https://hack-cewit-2019.devpost.com/submissions/112588-how-dare,MLH - Best Domain Name from Domain.com
+25,Blogger,https://hack-cewit-2019.devpost.com/submissions/112565-blogger,"MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform"
+26,Intelligent heart disease diagnosis,https://hack-cewit-2019.devpost.com/submissions/112401-intelligent-heart-disease-diagnosis,
+27,Hack Your Cell,https://hack-cewit-2019.devpost.com/submissions/112638-hack-your-cell,"MLH - Best Domain Name from Domain.com, Softheon's Pick: Most Significant Use of Softheon APIs, MLH - Best use of Google Cloud Platform, Machine Learning: A.I. Most Likely to Take Over The World, Most Health-Conscious: Tech for Healthcare's Sake, Softheon's Pick: Best Use of Softheon Workshops"
+28,Robot Challenge,https://hack-cewit-2019.devpost.com/submissions/112632-robot-challenge,Robotics Challenge 
+29,United Sensors of America,https://hack-cewit-2019.devpost.com/submissions/112682-united-sensors-of-america,
+30,word cloud review,https://hack-cewit-2019.devpost.com/submissions/112380-word-cloud-review,"Viacom - Best Multimedia Hack, MLH - Best Domain Name from Domain.com, MLH - Best use of Google Cloud Platform"
+31,Vital Master,https://hack-cewit-2019.devpost.com/submissions/112402-vital-master,
